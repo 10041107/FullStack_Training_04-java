@@ -1,0 +1,6 @@
+#jdbc driver
+#Sat Nov 04 22:38:10 KST 2023
+driver=oracle.jdbc..driver.OracleDriver
+pass=pass
+user=user
+url=loclahost
